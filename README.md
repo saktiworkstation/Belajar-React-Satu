@@ -1,6 +1,6 @@
 # Belajar React
 
-Selamat datang di repositori "Belajar React"! Repositori ini dibuat untuk memfasilitasi pembelajaran tentang React, sebuah pustaka JavaScript yang sangat populer untuk membangun antarmuka pengguna.
+Selamat datang di repositori "Belajar React"! Repositori ini dibuat Saat saya sedang belajar mengenai react dari chanel YouTube WPUnpas.
 
 ## Deskripsi
 
